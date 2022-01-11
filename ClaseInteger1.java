@@ -18,6 +18,6 @@ public class ClaseInteger1{
 		else
 			n1--;
 		System.out.println(n1);
-		System.out.println("hola");
+		System.out.println("hola!!!");
 	}
 }
